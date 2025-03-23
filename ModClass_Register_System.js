@@ -1,3 +1,5 @@
+// EternalDev
+
 let ModClass_Namespaces_Registered = {}
 
 function Register_Mod_Class(_Class_Name, _Class_Namespace, _class) {
