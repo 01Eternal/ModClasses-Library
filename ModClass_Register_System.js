@@ -15,7 +15,7 @@ function using(_ModClass) {
       
       return globalThis[_Class_Name] = _class;
     });
-  } else console.log(`"${_ModClass}" no founded.`);
+  } else tl.log(`"${_ModClass}" no founded.`);
 }
 
 class Testing {
