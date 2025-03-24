@@ -20,7 +20,7 @@ function using(_ModClass) {
 
 class Testing {
   static Loggin() {
-    console.log('Logged')
+    tl.log('Logged')
   }
 }
 
